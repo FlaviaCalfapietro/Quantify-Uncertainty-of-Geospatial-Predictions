@@ -1,5 +1,4 @@
 # Quantify-Uncertainty-of-Geospatial-Predictions
-# Geospatial Uncertainty Quantification: A Unified Framework
 
 This repository contains the codebase for my thesis project, which proposes a unified framework combining **spatially adaptive Conformal Prediction (CP)** with **Area-of-Applicability (AOA)** methods to rigorously quantify predictive uncertainty in geospatial machine learning models. 
 
