@@ -1,8 +1,8 @@
 # Quantify-Uncertainty-of-Geospatial-Predictions
 
-This repository contains the codebase for my thesis project, which proposes a unified framework combining **spatially adaptive Conformal Prediction (CP)** with **Area-of-Applicability (AOA)** methods to rigorously quantify predictive uncertainty in geospatial machine learning models. 
+This repository contains the codebase for my thesis project, which proposes a unified framework combining and testing **spatially adaptive Conformal Prediction (CP)**  methods to rigorously quantify predictive uncertainty in geospatial machine learning models. 
 
-By addressing the core challenges of spatial heterogeneity and covariate shift, this project provides a robust methodology for generating valid prediction intervals in unobserved geographical regions (extrapolation), ensuring that models accurately represent their own uncertainty in unknown spaces.
+By addressing the core challenges of spatial heterogeneity and covariate shift, this project provides a robust methodology for generating valid prediction intervals in unobserved geographical regions, ensuring that models accurately represent their own uncertainty in unknown spaces.
 
 ---
 
